@@ -3,6 +3,8 @@
 Topic: Optimization
 
 Course: CV5101 – Modelling, Uncertainty, and Data for Engineers
+## Checked by Chenna Mohith, score= 90/100 
+Didn't answer if the minima are local or global in both the questions
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
